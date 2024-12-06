@@ -1,0 +1,39 @@
+{
+  "alumnos": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "localidad": "Montilla",
+      "fecha_nacimiento": "2000-05-15",
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "2",
+      "nombre": "María López",
+      "localidad": "Cordoba",
+      "fecha_nacimiento": 20.12,
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos Gómez",
+      "localidad": "lucena",
+      "fecha_nacimiento": "2001-11-10",
+      "createdAt": "2024-10-23T10:56:35.101Z"
+    }
+  ],
+  "profesores": [
+    {
+      "id": "06a9",
+      "nombre": "ana",
+      "especialidad": "informatico",
+      "estado_civil": "casado"
+    },
+    {
+      "id": "482a",
+      "nombre": "ana",
+      "especialidad": "informatico",
+      "estado_civil": "casado"
+    }
+  ]
+}
